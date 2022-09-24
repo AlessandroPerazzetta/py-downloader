@@ -17,7 +17,7 @@ def get_filename_from_cd(cd):
 
 url_pattern = 'http://www.domain.com/File_name_+COUNTER+_other_stuff.ext'
 counter_pattern = '+COUNTER+'
-counter_start = 2
+counter_start = 1
 counter_stop = 101
 
 delay_seconds = 10
